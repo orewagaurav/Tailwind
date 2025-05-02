@@ -1,6 +1,6 @@
 
 import './App.scss'
-import Text from './component/text'
+import Text from './component/Text'
 
 function App() {
 
